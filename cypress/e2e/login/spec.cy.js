@@ -14,5 +14,5 @@ describe('template spec', () => {
   })
 
   //TODO - Adicionar BDD ao projeto
-
+  //TODO - Adicionar allure Report
 }) 
