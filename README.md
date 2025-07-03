@@ -27,22 +27,19 @@ git clone https://github.com/lupajr/Automation-serverest-front-cypress.git
 cd Automation-serverest-front-cypress
 Instale as dependências:
 
-bash
-Copiar
-Editar
+## 📦 Instalação
+
+Após clonar o repositório, instale as dependências executando:
+
+```bash
 npm install
 🚀 Como executar os testes
-Executar em modo headless
-bash
-Copiar
-Editar
+Modo headless (execução no terminal, sem interface gráfica)
 npx cypress run
-Executar em modo interativo (Cypress Test Runner)
-bash
-Copiar
-Editar
+
+Modo interativo (Cypress Test Runner)
 npx cypress open
-Selecione o teste desejado na interface para acompanhar sua execução.
+
 
 📂 Estrutura do projeto
 bash
@@ -67,3 +64,5 @@ Para mudanças maiores, por favor abra uma issue primeiro para discutirmos o que
 Luiz Paulo Junior
 GitHub | LinkedIn
 
+
+está errado ainda, melhore a parte de baixar dependencias por favor
