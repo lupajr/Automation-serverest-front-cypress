@@ -19,7 +19,7 @@ Este repositório tem como objetivo automatizar testes do fluxo de compras do Se
 
 Clone o repositório:
 
-``bash
+```bash
 git clone https://github.com/lupajr/Automation-serverest-front-cypress.git
 cd Automation-serverest-front-cypress
 Instale as dependências:
