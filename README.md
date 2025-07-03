@@ -1,21 +1,28 @@
-🚀 Automation-serverest-front-cypress
+✅ README.md corrigido
+markdown
+Copiar
+Editar
+# 🚀 Automation-serverest-front-cypress
+
 Automação de testes E2E do projeto Serverest Front utilizando Cypress.
 
 Este repositório tem como objetivo automatizar testes do fluxo de compras do Serverest Front, simulando o comportamento do usuário e garantindo a qualidade da aplicação.
 
-🧪 Tecnologias utilizadas
-Cypress - Framework de testes E2E
+---
 
-Node.js - Runtime JavaScript
+## 🧪 Tecnologias utilizadas
 
-npm - Gerenciador de pacotes
+- Cypress - Framework de testes E2E
+- Node.js - Runtime JavaScript
+- npm - Gerenciador de pacotes
 
-📦 Instalação
+---
+
+## 📦 Instalação
+
 Clone o repositório:
 
-bash
-Copiar
-Editar
+```bash
 git clone https://github.com/lupajr/Automation-serverest-front-cypress.git
 cd Automation-serverest-front-cypress
 Instale as dependências:
@@ -41,10 +48,10 @@ Selecione o teste desejado na interface para acompanhar sua execução.
 bash
 Copiar
 Editar
-📦 cypress/
- ┣ 📂 e2e/           # Testes automatizados
- ┣ 📂 fixtures/      # Massa de dados mock
- ┣ 📂 support/       # Commands e configuração global
+cypress/
+ ├─ e2e/         # Testes automatizados
+ ├─ fixtures/    # Massa de dados mock
+ └─ support/     # Commands e configuração global
 🔥 Funcionalidades cobertas
 ✅ Cadastro de usuário
 ✅ Login do usuário
@@ -56,6 +63,7 @@ Editar
 Pull requests são bem-vindos!
 Para mudanças maiores, por favor abra uma issue primeiro para discutirmos o que você gostaria de modificar.
 
-🧑‍💻 Autor
+👤 Autor
 Luiz Paulo Junior
 GitHub | LinkedIn
+
