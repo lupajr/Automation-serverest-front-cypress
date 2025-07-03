@@ -27,8 +27,8 @@ Instale as dependências:
 ## 📦 Instalação
 
 Após clonar o repositório, instale as dependências executando:
-
-``bash
+```
+```bash
 npm install
 🚀 Como executar os testes
 Modo headless (execução no terminal, sem interface gráfica)
@@ -36,7 +36,7 @@ npx cypress run
 
 Modo interativo (Cypress Test Runner)
 npx cypress open
-
+```
 
 📂 Estrutura do projeto
 cypress/
