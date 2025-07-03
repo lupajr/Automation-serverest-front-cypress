@@ -27,10 +27,10 @@ Instale as dependências:
 ## 📦 Instalação
 
 Após clonar o repositório, instale as dependências executando:
-```
-```bash
 npm install
+```
 🚀 Como executar os testes
+```bash
 Modo headless (execução no terminal, sem interface gráfica)
 npx cypress run
 
@@ -39,6 +39,7 @@ npx cypress open
 ```
 
 📂 Estrutura do projeto
+```bash
 cypress/
  ├─ e2e/         # Testes automatizados
  ├─ fixtures/    # Massa de dados mock
@@ -49,6 +50,7 @@ cypress/
 ✅ Fluxo de compra no e-commerce
 ✅ Validações de elementos na interface
 ✅ Cobertura de cenários positivos e negativos
+```
 
 📝 Contribuindo
 Pull requests são bem-vindos!
@@ -58,5 +60,3 @@ Para mudanças maiores, por favor abra uma issue primeiro para discutirmos o que
 Luiz Paulo Junior
 GitHub | LinkedIn
 
-
-está errado ainda, melhore a parte de baixar dependencias por favor
