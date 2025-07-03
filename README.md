@@ -1,7 +1,4 @@
-✅ README.md corrigido
-markdown
-Copiar
-Editar
+
 # 🚀 Automation-serverest-front-cypress
 
 Automação de testes E2E do projeto Serverest Front utilizando Cypress.
@@ -22,7 +19,7 @@ Este repositório tem como objetivo automatizar testes do fluxo de compras do Se
 
 Clone o repositório:
 
-```bash
+``bash
 git clone https://github.com/lupajr/Automation-serverest-front-cypress.git
 cd Automation-serverest-front-cypress
 Instale as dependências:
@@ -31,7 +28,7 @@ Instale as dependências:
 
 Após clonar o repositório, instale as dependências executando:
 
-```bash
+``bash
 npm install
 🚀 Como executar os testes
 Modo headless (execução no terminal, sem interface gráfica)
@@ -42,9 +39,6 @@ npx cypress open
 
 
 📂 Estrutura do projeto
-bash
-Copiar
-Editar
 cypress/
  ├─ e2e/         # Testes automatizados
  ├─ fixtures/    # Massa de dados mock
