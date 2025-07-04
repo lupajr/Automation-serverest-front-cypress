@@ -13,6 +13,6 @@ describe('template spec', () => {
     cy.xpath('//*[@role="alert"]').should('contain.text', 'Email e/ou senha inválidos')
   })
 
-  //TODO - Adicionar BDD ao projeto
+  //TODO - Adicionar BDD ao projeto - 
   //TODO - Adicionar allure Report
 }) 
